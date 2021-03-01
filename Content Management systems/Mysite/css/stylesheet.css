@@ -6,3 +6,10 @@ h1 {
 	font-size: 32px;
 	color: black;
 }
+.header{
+	background: black;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+
+}
