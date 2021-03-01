@@ -1,15 +1,11 @@
 body {
-	color: red;
+	font-family: "courier new", serif
 }
-h1 {
-	font-family: Arial, sans-serif;
-	font-size: 32px;
-	color: black;
-}
+
 .header{
 	background: black;
 	text-align: center;
 	color: white;
-	font-size: 30px;
+	font-size: 60px;
 
 }
